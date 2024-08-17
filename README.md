@@ -1,3 +1,9 @@
+```bash
+git clone https://github.com/hrhouma/terraform-1.git
+cd terraform-1
+tar -xf terraform-1.zip
+```
+
 ### 1. Cloner le Dépôt
 Tout d'abord, vous devez cloner le dépôt en utilisant Git. Ouvrez votre terminal (ou l'invite de commande) et exécutez la commande suivante :
 
